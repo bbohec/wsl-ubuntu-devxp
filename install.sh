@@ -1,3 +1,6 @@
+# tips doc : https://github.com/lewagon/setup/blob/master/windows.md
+
+
 # set working dir at current user home dir
 cd ~
 
